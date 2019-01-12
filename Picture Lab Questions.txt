@@ -1,0 +1,38 @@
+Activity 2
+	1. How do you make pink?
+		R - 250
+		G - 146
+		B - 247
+	2. How do you make yellow?
+		R - 250
+		G - 246
+		B - 39
+	3. How do you make purple?
+		R - 106
+		G - 39
+		B - 240
+	4. How do you make white?
+		R - 255
+		G - 255
+		B - 255
+	5. How do you make dark gray?
+		R - 102
+		G - 102
+		B - 102
+Activity 3
+	1. What is the row index for the top left corner of the picture?
+		0
+	2. What is the column index for the top left corner of the picture?
+		0
+	3. The width of this picture is 640. What is the right most column index?
+		639
+	4. The height of this picture is 480. What is the bottom most row index?
+		479
+	5. Does the row index increase from left to right or top to bottom?
+		Top to Bottom
+	6. Does the column index increase from left to right or top to bottom?
+		Left to Right
+	7. Set the zoom to 500%. Can you see squares of color? This is called pixelation. 
+	Pixelation means displaying a picture so magnified 
+	that the individual pixels look like small squares.
+		Yes
